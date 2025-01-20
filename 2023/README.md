@@ -1,7 +1,7 @@
 # 2023 Paper Review Collection
 
 This directory contains paper reviews conducted throughout **2023** as part of CILAB activities.  
-The reviews were carried out by **BeomSoon Park** (Class of 2019, Mobile Systems).
+The reviews were carried out by **BeomSoon Park** (Mobile Systems, 19).
 
 
 
