@@ -1,5 +1,3 @@
-# CILAB-SEMINAR-2023
-
 # 2023 Paper Review Collection
 
 This directory contains paper reviews conducted throughout **2023** as part of CILAB activities.  
