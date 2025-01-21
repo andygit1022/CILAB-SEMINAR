@@ -33,4 +33,11 @@ The reviews were carried out by **BeomSoon Park** (Mobile Systems, 19) and **Yoo
 - **Department**: Mobile System Engineering, 19
 - **Year**: 2023
 
+
+  
+- **Name**: YoonSeong Yang  
+- **Department**: Mobile System Engineering, 19
+- **Year**: 2023
+
+
 ---
