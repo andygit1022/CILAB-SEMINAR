@@ -6,8 +6,9 @@ The reviews were carried out by **BeomSoon Park** (Mobile Systems, 19) and **Yoo
 <br/>
 <br/>
 ---
+
 ## Index
-<br/>
+
 
 
 1. [A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks](./2023-06-28/)
