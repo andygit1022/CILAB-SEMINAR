@@ -3,11 +3,11 @@
 This directory contains paper reviews conducted throughout **2023** as part of CILAB activities.  
 The reviews were carried out by **BeomSoon Park** (Mobile Systems, 19) and **YoonSeong Yang** (Mobile Systems, 19).
 
-
-
+<br/>
+<br/>
 ---
 ## Index
-
+<br/>
 
 
 1. [A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks](./2023-06-28/)
@@ -21,11 +21,12 @@ The reviews were carried out by **BeomSoon Park** (Mobile Systems, 19) and **Yoo
 9. [DreamFusion_Text-to-3D_using_2D_diffusion](./2023-08-30/)
 
 
-
+<br/>
+<br/>
 
 ---
-
-
+<br/>
+<br/>
 
 ### Reviewer Introduction
 
